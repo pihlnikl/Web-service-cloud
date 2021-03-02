@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/bb492716-cf36-4b2a-b042-e9ece2c6a3e1/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/cabinBookingpihlnikl",
+    "appService.deploySubpath": "."
+}
